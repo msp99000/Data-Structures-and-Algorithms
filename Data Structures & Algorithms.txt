@@ -1,0 +1,39 @@
+
+Data structures
+
+The data structure implements the physical form of the data type. Usually, efficient data structures are key to designing efficient algorithms. Some formal design methods and programming languages emphasize data structures, rather than algorithms, as the key organizing factor in software design. In computer science, a data structure is the organization and implementation of values and information. In simple words data structure is the way of organizing data in efficient manner. Data structures are different from abstract data types in the way they are used. Data structures are the implementations of abstract data types in a concrete and physical setting. They do this by using algorithms. This can be seen in the relationship between the list (abstract data type) and the linked list (data structure). A list contains a sequence of values or bits of information. A linked list also has a “pointer” or “reference” between each node of information that points to the next item and the previous one. This allows one to go forwards or backwards in the list. Furthermore, data structures are often optimized for certain operations. Finding the best data structure when solving a problem is an important part of programming. Data structure is a systematic way to store data.
+
+
+
+Types of Data Structures
+
+-> Array
+-> Linked List
+-> Stack
+-> Queue
+-> Graph
+-> Tree
+-> Hash Table
+
+
+
+Algorithms
+
+An algorithm is a step procedure to solve logical and mathematical problems.
+A recipe is a good example of an algorithm because it says what must be done, step by step. It takes inputs (ingredients) and produces an output (the completed dish).
+The words 'algorithm' and 'algorism' come from the name of a Persian mathematician called Al-Khwārizmī (Persian: خوارزمی, c. 780–850).
+Informally, an algorithm can be called a "list of steps". Algorithms can be written in ordinary language, and that may be all a person needs.
+In computing, an algorithm is a precise list of operations that could be done by a Turing machine. For the purpose of computing, algorithms are written in pseudocode, flow charts, or programming languages.
+
+
+
+Types of Algorithms
+
+-> Simple Recursive Algorithms
+-> Backtracking Algorithms
+-> Divide and Conquer Algorithms
+-> Dynamic Algorithms
+-> Greedy Algorithms
+-> Branch and Bound Algorithms
+-> Brute Force Algorithms
+-> Randomized Algorithms
