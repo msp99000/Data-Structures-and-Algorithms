@@ -3,3 +3,6 @@ Collection of Top 100+ Questions on Data Structures &amp; Algorithms asked in pa
 
 1. Binary trees
 2. Linked lists
+3. Graphs
+4. Stacks
+5. Queues
